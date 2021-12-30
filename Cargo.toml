@@ -1,5 +1,5 @@
 [package]
-name = "rust-examples"
+name = "sql-test-engine"
 version = "0.1.0"
 edition = "2021"
 
